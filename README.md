@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://magma.com/api/message/file/6aaf2ed8025a19c94727a9c2"
+  <img src="https://magma.com/api/message/file/6ab97998028aa0552505ac0b"
 
 </div>
 
@@ -47,13 +47,14 @@ honorary host addon @silly-dotcom as the Oppenheimer enthusiast
  
  </details>
   <p align="center">
-     remaking
+     hhh
 </p>
 
 
  </details>
   <p align="center">
-     hey its me its verity ask me anything i know about a million things ill do everything
+     "Prepare yourself!"
 </p>
  
-<img width="222" height="207" alt="Screenshot from 2026-09-19 16-54-38" src="https://github.com/user-attachments/assets/e6840de4-ba44-4982-a8bf-da74a6444dca" />
+<img width="200" height="100" alt="ezgif com-overlay" src="https://github.com/user-attachments/assets/3e3473cd-01b6-41c4-8390-8f37c61c8754" />
+
